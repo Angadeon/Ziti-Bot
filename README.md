@@ -10,15 +10,15 @@ https://github.com/xivapi/xivapi.py
 https://github.com/Rapptz/discord.py
   
   
-v1.0 - current
-
-getid:  Search for an item by (partial/full)name. Returns ID #'s 
+v1.02 - current 
 
 help:   Shows this message
 
-item:   Use the Item ID to get a description of that item. 
+item:    Search for an item by (partial)name.
 
-recipe: Use the Recipe ID to get the requirements for crafting. 
+recipe: Displays the ingredients and amounts needed for crafting an item.
+
+(Found the appropriate search parameters and removed the ID# workaround.)
 
 
 v1.1 - pending
