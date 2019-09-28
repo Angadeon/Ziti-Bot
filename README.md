@@ -10,22 +10,10 @@ https://github.com/xivapi/xivapi.py
 https://github.com/Rapptz/discord.py
   
   
-v1.02 - current 
+v1.02
 
-help:   Shows this message
+help:     Shows this message
 
-item:    Search for an item by (partial)name.
+item:     Search for a (partial)name. Displays basic information about possible items with that name.
 
-recipe: Displays the ingredients and amounts needed for crafting an item.
-
-(Found the appropriate search parameters and removed the ID# workaround.)
-
-
-v1.1 - pending
-
-gather: Use the Gather ID for information on where to gather that item.
-
-
-v1.2 - theoretical
-
-timers: ???
+recipe:   Displays the ingredients and amounts needed for crafting an item.
